@@ -7,6 +7,10 @@ public class Opana {
         System.out.println("Trololo");
     }
 
+    public void opana(){
+        System.out.println("opana");
+    }
+
     private void opana1(){
         System.out.println("opana");
     }
